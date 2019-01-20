@@ -1,2 +1,2 @@
 # hello-world
-#i am a hacker
+#i am a poor hacker
